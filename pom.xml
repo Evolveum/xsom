@@ -50,7 +50,7 @@
         Schema as an input.
     </description>
     <url>http://xsom.java.net/</url>
-    <version>20140925-SNAPSHOT</version>
+    <version>20190730e</version>
     <packaging>jar</packaging>
     <parent>
         <groupId>net.java</groupId>
